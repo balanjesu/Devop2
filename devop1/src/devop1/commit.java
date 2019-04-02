@@ -3,9 +3,9 @@ package devop1;
 public class commit {
 
 	public static void main(String[] args) {
-		int a=1;
+		int a=999;
 
-		int b=1;
+		int b=999;
 		int c=a+b;
 		
 		System.out.println(c);
